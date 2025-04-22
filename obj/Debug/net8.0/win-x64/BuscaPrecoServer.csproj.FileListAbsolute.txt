@@ -1,0 +1,15 @@
+C:\Users\SUPORTE\Documents\PROJECTS\buscaPrecoServer\bin\Debug\net8.0\win-x64\BuscaPrecoServer.exe
+C:\Users\SUPORTE\Documents\PROJECTS\buscaPrecoServer\bin\Debug\net8.0\win-x64\produtos.txt
+C:\Users\SUPORTE\Documents\PROJECTS\buscaPrecoServer\bin\Debug\net8.0\win-x64\BuscaPrecoServer.deps.json
+C:\Users\SUPORTE\Documents\PROJECTS\buscaPrecoServer\bin\Debug\net8.0\win-x64\BuscaPrecoServer.runtimeconfig.json
+C:\Users\SUPORTE\Documents\PROJECTS\buscaPrecoServer\bin\Debug\net8.0\win-x64\BuscaPrecoServer.dll
+C:\Users\SUPORTE\Documents\PROJECTS\buscaPrecoServer\bin\Debug\net8.0\win-x64\BuscaPrecoServer.pdb
+C:\Users\SUPORTE\Documents\PROJECTS\buscaPrecoServer\obj\Debug\net8.0\win-x64\BuscaPrecoServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUPORTE\Documents\PROJECTS\buscaPrecoServer\obj\Debug\net8.0\win-x64\BuscaPrecoServer.AssemblyInfoInputs.cache
+C:\Users\SUPORTE\Documents\PROJECTS\buscaPrecoServer\obj\Debug\net8.0\win-x64\BuscaPrecoServer.AssemblyInfo.cs
+C:\Users\SUPORTE\Documents\PROJECTS\buscaPrecoServer\obj\Debug\net8.0\win-x64\BuscaPrecoServer.csproj.CoreCompileInputs.cache
+C:\Users\SUPORTE\Documents\PROJECTS\buscaPrecoServer\obj\Debug\net8.0\win-x64\BuscaPrecoServer.dll
+C:\Users\SUPORTE\Documents\PROJECTS\buscaPrecoServer\obj\Debug\net8.0\win-x64\refint\BuscaPrecoServer.dll
+C:\Users\SUPORTE\Documents\PROJECTS\buscaPrecoServer\obj\Debug\net8.0\win-x64\BuscaPrecoServer.pdb
+C:\Users\SUPORTE\Documents\PROJECTS\buscaPrecoServer\obj\Debug\net8.0\win-x64\BuscaPrecoServer.genruntimeconfig.cache
+C:\Users\SUPORTE\Documents\PROJECTS\buscaPrecoServer\obj\Debug\net8.0\win-x64\ref\BuscaPrecoServer.dll
